@@ -1,0 +1,20 @@
+{
+    "name": "aimer/f2fpay",
+    "description": "A simple alipay-f2fpay package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aimerforreimu",
+            "email": "aimerforreimu@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+    },
+    "autoload":{
+        "psr-4":{
+            "F2fPay\\": "src/"
+        }
+    }
+}
