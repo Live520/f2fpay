@@ -9,7 +9,7 @@
             "email": "aimerforreimu@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
     },
     "autoload":{
